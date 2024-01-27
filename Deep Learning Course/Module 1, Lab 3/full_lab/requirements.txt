@@ -1,0 +1,10 @@
+scikit-learn
+torch
+matplotlib
+seaborn
+numpy
+pandas
+nltk
+boto3
+os
+sys

@@ -1,0 +1,5 @@
+pip
+matplotlib
+nltk
+pandas
+scikit-learn
